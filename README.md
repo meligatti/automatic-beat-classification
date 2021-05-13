@@ -13,5 +13,5 @@ As this project was showed in a Jupyter Notebook to combine text and code, it's 
 * __pywt__ for ECG filtering
 * __tensorflow__ to create and train the classification model 
 * __keras__ as a layer to configure easier all needed on Tensorflow
-* __pycm__ to calcule the confusion matrix
+* __pycm__ to calculate the confusion matrix
 
